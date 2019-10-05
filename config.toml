@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://dalafarm.vn/"
+baseurl = "https://diencothanhhien.netlify.com/"
 languageCode = "vi-vn"
 title = "Điện cơ Thanh Hiền"
 theme = "hugo-ecommerce-theme"
