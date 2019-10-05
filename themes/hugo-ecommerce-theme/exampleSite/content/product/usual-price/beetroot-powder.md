@@ -26,10 +26,10 @@ popular_product = true
 key = "beetroot"
 +++
 
-# Bột Củ Dền DalaFarm (dùng liền)
+# Bột Củ Dền Điện cơ Thanh Hiền (dùng liền)
 
 Được chọn lọc và chế biến từ những nguyên liệu 
-tươi ngon không hóa chất trồng tại DalaFarm, Lâm Đồng. Sản phẩm được 
+tươi ngon không hóa chất trồng tại Điện cơ Thanh Hiền, Lâm Đồng. Sản phẩm được 
 sản xuất bằng công nghệ sấy độc quyền SEFD và được cấp chứng nhận 
 VSATTP Việt Nam.
 
@@ -46,7 +46,7 @@ cần thiết cho cơ thể, dụng đào
 thải độc tố, ngăn ngừa hiệu quả 
 một số dạng ung thư. 
 
-### Giá trị dinh dưỡng trong 100 gram bột củ dền DalaFarm
+### Giá trị dinh dưỡng trong 100 gram bột củ dền Điện cơ Thanh Hiền
 
 
 Chất | | Giá trị 

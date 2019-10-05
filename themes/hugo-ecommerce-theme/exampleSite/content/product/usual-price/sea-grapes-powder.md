@@ -11,7 +11,7 @@ title = "Bột Rong Nho (50g)"
 key = "seagrapes"
 +++
 
-# Bột Rong Nho DalaFarm
+# Bột Rong Nho Điện cơ Thanh Hiền
 
 Được chọn lọc và chế biến từ những nguyên liệu 
 tươi ngon được trồng tại vùng biển sạch Nha Trang - Khánh Hòa. 

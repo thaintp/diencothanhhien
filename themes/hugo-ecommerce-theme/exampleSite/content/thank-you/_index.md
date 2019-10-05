@@ -1,10 +1,10 @@
 +++
-title = "DalaFarm Cám Ơn"
+title = "Điện cơ Thanh Hiền Cám Ơn"
 date = "2017-03-21T21:52:24+08:00"
 
 +++
 
-**Xin cám ơn quý khách đã đặt hàng với DalaFarm.** 
+**Xin cám ơn quý khách đã đặt hàng với Điện cơ Thanh Hiền.** 
 
 Đơn hàng của quý khách đã được chuyển qua kho của chúng tôi và sẽ được vận chuyển đến địa chỉ của quý khách trong 
 thời gian sớm nhất.

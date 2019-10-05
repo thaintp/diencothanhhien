@@ -21,10 +21,10 @@ aliases = ["/san-pham/bột-cà-rốt-5g","/san-pham/Bột-cà-rốt-5g"]
 weight = 2
 +++
 
-# Bột Cà Rốt DalaFarm (dùng liền) 
+# Bột Cà Rốt Điện cơ Thanh Hiền (dùng liền) 
                         
 Được chọn lọc và chế biến từ những nguyên liệu 
-tươi ngon không hóa chất trồng tại DalaFarm, Lâm Đồng. Sản phẩm được 
+tươi ngon không hóa chất trồng tại Điện cơ Thanh Hiền, Lâm Đồng. Sản phẩm được 
 sản xuất bằng công nghệ sấy độc quyền SEFD và được cấp chứng nhận 
 VSATTP Việt Nam.
 

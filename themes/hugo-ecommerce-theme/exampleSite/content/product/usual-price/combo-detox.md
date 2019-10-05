@@ -10,8 +10,8 @@ description = """
 
 * Bột Detox Moon Powder đóng gói zip 100 gram
 
-_**Bột Detox Star, Sun và Moon Powder từ DalaFarm** được chọn lọc và chế biến từ những nguyên liệu
-tươi ngon không hóa chất trồng tại DalaFarm, Lâm Đồng. Sản phẩm được
+_**Bột Detox Star, Sun và Moon Powder từ Điện cơ Thanh Hiền** được chọn lọc và chế biến từ những nguyên liệu
+tươi ngon không hóa chất trồng tại Điện cơ Thanh Hiền, Lâm Đồng. Sản phẩm được
 sản xuất bằng công nghệ sấy độc quyền SEFD và được cấp chứng nhận
 VSATTP Việt Nam._
 
@@ -37,7 +37,7 @@ key = "combodetox"
 
 -	Mặc dù vậy, chúng ta có 1 cơ thể rất kì diệu. Đó là: “cơ thể có năng lực vô hạn trong việc tự chữa lành” ( trích từ quyển “phòng và chữa bệnh ung thư theo phương pháp tự nhiên). Vấn đề là bạn có lắng nghe cơ thể mình hàng ngày và cho chúng có cơ hội được trở lại bình thường hay không?
 
--	Nếu bạn chịu lắng nghe, DalaFarm sẽ  đem đến giải pháp. Và giải pháp tối ưu mà DalaFarm mang đến chọ các bạn chính là:
+-	Nếu bạn chịu lắng nghe, Điện cơ Thanh Hiền sẽ  đem đến giải pháp. Và giải pháp tối ưu mà Điện cơ Thanh Hiền mang đến chọ các bạn chính là:
 {{< img src="/img/blog/combodetox(1).jpg" title="Bộ detox thải độc toàn diện" >}}
 
 -	BỘ SẢN PHẨM DETOX “ TỐI ĐA” bằng cơ chế “3 thông” thải độc cùng lúc qua 3 còn đường: đại tiện, tiểu tiện và mồ hôi để cơ thể luôn được thông suốt. Đồng thời thải độc cùng lúc ở nhiều cơ quan, tăng tối đa hiệu quả thải độc cho cơ thể:
@@ -48,7 +48,7 @@ key = "combodetox"
 
     * Thanh lọc qua thận nhờ uống nước nhiều
 
-**Trong trường hợp giảm ăn tinh bột, chất béo, đường và uống kèm nước rau củ detox DalaFarm.**
+**Trong trường hợp giảm ăn tinh bột, chất béo, đường và uống kèm nước rau củ detox Điện cơ Thanh Hiền.**
 
 Bộ sản phẩm gồm 3 màu: vàng cam–đỏ-xanh tương ứng – sáng-trưa-tối.
 

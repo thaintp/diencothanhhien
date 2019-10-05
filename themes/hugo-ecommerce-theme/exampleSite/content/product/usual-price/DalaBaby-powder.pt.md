@@ -60,7 +60,7 @@ Dalafarm veggie em pó ajuda seu bebê a experimentar diferentes sabores e forne
 
 * Use com mingau: despeje mingau cozido na tigela. Tome 3-5 gramas ou cerca de 1-2 colheres de chá de pó (equivalente a 80-100 gramas de legumes frescos) e misture diretamente no mingau, depois de mexer, está pronto para alimentar o bebê.
 
-* Use com comida para bebé: misture comida para bebé e pó DalaFarm numa taça de água morna, mexa antes de usar.
+* Use com comida para bebé: misture comida para bebé e pó Điện cơ Thanh Hiền numa taça de água morna, mexa antes de usar.
 
 Leia mais sobre receitas de comida aqui: http://dalafarm.vn/pt/dala-kitchen/
 

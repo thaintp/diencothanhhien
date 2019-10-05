@@ -13,7 +13,7 @@ title = "Pó de moringa (50g)"
 
 # Pó de moringa
 
-O pó de moringa da DalaFarm é cuidadosamente colhida e processada a partir dos vegetais crus mais frescos e melhores
+O pó de moringa da Điện cơ Thanh Hiền é cuidadosamente colhida e processada a partir dos vegetais crus mais frescos e melhores
 cresceu em nossa própria fazenda em Lam Dong. Nossos produtos são produzidos pela tecnologia SEFD (patente pendente) e
 é certificada pelo regulador de Segurança Alimentar do Vietnã.
 

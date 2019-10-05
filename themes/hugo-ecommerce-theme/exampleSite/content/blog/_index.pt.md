@@ -5,4 +5,4 @@ tags = []
 
 +++
 
-Atualmente disponível apenas em vietnamita. Por favor, clique aqui para a versão Vietnamita: [DalaFarm Blog](/blog)
+Atualmente disponível apenas em vietnamita. Por favor, clique aqui para a versão Vietnamita: [Điện cơ Thanh Hiền Blog](/blog)

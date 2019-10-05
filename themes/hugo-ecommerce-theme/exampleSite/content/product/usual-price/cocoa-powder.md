@@ -14,7 +14,7 @@ weight = 3
 discounted_percent = "Tạm hết"
 +++
 
-# Bột Cacao DalaFarm 
+# Bột Cacao Điện cơ Thanh Hiền 
                        
 Được chọn lọc và chế biến từ những hạt cacao  đã lên men, 
 không hóa chất tại Lâm Đồng. Bột được rang, tách vỏ,  nghiền, ép tách bơ và đánh tơi 

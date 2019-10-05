@@ -24,9 +24,9 @@ popular_product = true
 key = "purpleswpotato"
 +++
 
-# Bột Khoai Lang Tím DalaFarm (dùng liền)
+# Bột Khoai Lang Tím Điện cơ Thanh Hiền (dùng liền)
 
-Được chọn lọc và chế biến từ những củ khoai lang tím tươi ngon không hóa chất trồng tại DalaFarm, Lâm Đồng. Sản phẩm 
+Được chọn lọc và chế biến từ những củ khoai lang tím tươi ngon không hóa chất trồng tại Điện cơ Thanh Hiền, Lâm Đồng. Sản phẩm 
 được sản xuất bằng công nghệ sấy độc quyền SEFD và được cấp chứng 
 nhận VSATTP Việt Nam.
 

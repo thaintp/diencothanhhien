@@ -1,22 +1,22 @@
 +++
 date = "2017-06-06T08:05:45+08:00"
 publishdate = "2017-06-06T08:05:45+08:00"
-description = "Espinafre Em Pó DalaFarm zip 50 gram"
+description = "Espinafre Em Pó Điện cơ Thanh Hiền zip 50 gram"
 price = "6"
 img = ["spinach-1.jpg","spinach-2.jpg"]
 product_line = ""
 tags = ["spinach"]
 thumbnail = "spinach-1"
 thumbnailX = 15.78
-title = "Espinafre Em Pó DalaFarm (50g)"
+title = "Espinafre Em Pó Điện cơ Thanh Hiền (50g)"
 weight = 3
 aliases = ["/san-pham/bot-rau-bo-xoi-50g","/san-pham/bot-cai-bo-xoi-50g"]
 key = "spinach"
 +++
 
-# Espinafre Em Pó DalaFarm 
+# Espinafre Em Pó Điện cơ Thanh Hiền 
 
-O pó de espinafre DalaFarm é cuidadosamente colhido e processado a partir dos vegetais crus mais frescos e melhores
+O pó de espinafre Điện cơ Thanh Hiền é cuidadosamente colhido e processado a partir dos vegetais crus mais frescos e melhores
 cresceu em nossa própria fazenda em Lam Dong. Nossos produtos são produzidos pela tecnologia SEFD (patente pendente) e
 é certificada pelo regulador de Segurança Alimentar do Vietnã.
 

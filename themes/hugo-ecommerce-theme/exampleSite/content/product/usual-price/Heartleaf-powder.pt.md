@@ -13,7 +13,7 @@ title = "Pó de Heart-leaf (50g)"
 
 # Pó de Heart-leaf
 
-O pó DalaFarm Heart-leaf é cuidadosamente colhido e processado a partir dos vegetais crus mais frescos e melhores
+O pó Điện cơ Thanh Hiền Heart-leaf é cuidadosamente colhido e processado a partir dos vegetais crus mais frescos e melhores
 cresceu em nossa própria fazenda em Lam Dong. Nossos produtos são produzidos pela tecnologia SEFD (patente pendente) e
 é certificada pelo regulador de Segurança Alimentar do Vietnã.
 

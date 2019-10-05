@@ -14,9 +14,9 @@ aliases = ["/san-pham/bot-rau-bo-xoi-50g","/san-pham/bot-cai-bo-xoi-50g"]
 key = "spinach"
 +++
 
-# DalaFarm Spinach Powder
+# Điện cơ Thanh Hiền Spinach Powder
 
-DalaFarm Spinach powder is carefully picked and processed from the most fresh and best raw vegetables 
+Điện cơ Thanh Hiền Spinach powder is carefully picked and processed from the most fresh and best raw vegetables 
 grown in our own farm in Lam Dong. Our products are produced by SEFD technology (patent pending) and 
 is certified by Vietnam Food Safety regulator.
 

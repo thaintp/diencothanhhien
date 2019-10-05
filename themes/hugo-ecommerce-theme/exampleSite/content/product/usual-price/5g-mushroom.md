@@ -13,10 +13,10 @@ weight = 2
 aliases = ["/san-pham/bot-nam-5g","/san-pham/bot-nam-bao-ngu-5g"]
 +++
 
-# Bột Nấm Bào Ngư DalaFarm (dùng liền)
+# Bột Nấm Bào Ngư Điện cơ Thanh Hiền (dùng liền)
 
 Được chọn lọc và chế biến từ những nguyên liệu 
-tươi ngon không hóa chất trồng tại DalaFarm, Lâm Đồng. Sản phẩm được 
+tươi ngon không hóa chất trồng tại Điện cơ Thanh Hiền, Lâm Đồng. Sản phẩm được 
 sản xuất bằng công nghệ sấy độc quyền SEFD và được cấp chứng nhận 
 VSATTP Việt Nam.
 

@@ -14,9 +14,9 @@ aliases = ["/san-pham/bot-khoai-lang-tim-50g","/san-pham/bot-khoai-lang-50g"]
 key = "purpleswpotato"
 +++
 
-# DalaFarm Purple Sweet Potato powder
+# Điện cơ Thanh Hiền Purple Sweet Potato powder
 
-DalaFarm Purple Sweet Potato powder is carefully picked and processed from the most fresh and best raw vegetables 
+Điện cơ Thanh Hiền Purple Sweet Potato powder is carefully picked and processed from the most fresh and best raw vegetables 
 grown in our own farm in Lam Dong. Our products are produced by SEFD technology (patent pending) and 
 is certified by Vietnam Food Safety regulator.
 

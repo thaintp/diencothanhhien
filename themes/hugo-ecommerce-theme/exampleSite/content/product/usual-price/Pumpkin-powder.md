@@ -15,10 +15,10 @@ weight = 2
 key = "pumpkin"
 +++
 
-# Bột Bí Đỏ DalaFarm (dùng liền) 
+# Bột Bí Đỏ Điện cơ Thanh Hiền (dùng liền) 
                        
 Được chọn lọc và chế biến từ những nguyên liệu 
-tươi ngon không hóa chất trồng tại DalaFarm, Lâm Đồng. Sản phẩm được 
+tươi ngon không hóa chất trồng tại Điện cơ Thanh Hiền, Lâm Đồng. Sản phẩm được 
 sản xuất bằng công nghệ sấy độc quyền SEFD và được cấp chứng nhận 
 VSATTP Việt Nam.
 

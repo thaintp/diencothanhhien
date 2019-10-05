@@ -13,7 +13,7 @@ title = "Carrot powder (50g)"
 
 # Carrot powder
 
-DalaFarm Carrot powder is carefully picked and processed from the most fresh and best raw vegetables 
+Điện cơ Thanh Hiền Carrot powder is carefully picked and processed from the most fresh and best raw vegetables 
 grown in our own farm in Lam Dong. Our products are produced by SEFD technology (patent pending) and 
 is certified by Vietnam Food Safety regulator.
 

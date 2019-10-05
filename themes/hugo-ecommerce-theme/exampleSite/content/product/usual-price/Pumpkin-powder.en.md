@@ -13,7 +13,7 @@ title = "Pumpkin powder (50g)"
 
 # Pumpkin powder
 
-DalaFarm Pumpkin powder is carefully picked and processed from the most fresh and best raw vegetables 
+Điện cơ Thanh Hiền Pumpkin powder is carefully picked and processed from the most fresh and best raw vegetables 
 grown in our own farm in Lam Dong. Our products are produced by SEFD technology (patent pending) and 
 is certified by Vietnam Food Safety regulator.
 

@@ -21,7 +21,7 @@ is certified by Vietnam Food Safety regulator.
 According to the World Health Organization's recommendations, 
 each baby should consume 300 - 400 grams of vegetables perday.
 
-With DalaFarm Vegetables Powder, 3-5 grams of powder is equivalent to 80 - 100 grams of fresh vegetables.
+With Điện cơ Thanh Hiền Vegetables Powder, 3-5 grams of powder is equivalent to 80 - 100 grams of fresh vegetables.
 Hence, consuming 15-20 gram of veggie powders per day will ensure your baby has enough fiber and vitamins.
 
 ### Ingredients
@@ -60,7 +60,7 @@ Dalafarm veggie powder helps your baby to try different tastes and provide enoug
 
 * Use with porridge: pour cooked porridge to the bowl. Take 3-5 grams or about 1-2 teaspoon of powder (equivalent to 80-100 grams of fresh vegetables) and mix directly into porridge, after stirring, it's ready to feed the baby.  
 
-* Use with baby food: mix baby food and DalaFarm powder into a bowl of warm water, stirred up before use.
+* Use with baby food: mix baby food and Điện cơ Thanh Hiền powder into a bowl of warm water, stirred up before use.
 
 Read more about food recipes here: http://dalafarm.vn/en/dala-kitchen/
 

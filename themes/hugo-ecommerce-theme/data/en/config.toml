@@ -1,9 +1,9 @@
 ## English
 
 [params]
-name = "DalaFarm"
-description = """DalaFarm provides vegetables powders such as strawberry, celery, beetroot, carrot, heartleaf, spinach, tomato, pennywort,
-                 lotus seed powder for baby. DalaFarm also produces mixed vegetables for detox drink, along with garlic oil.
+name = "Điện cơ Thanh Hiền"
+description = """Điện cơ Thanh Hiền provides vegetables powders such as strawberry, celery, beetroot, carrot, heartleaf, spinach, tomato, pennywort,
+                 lotus seed powder for baby. Điện cơ Thanh Hiền also produces mixed vegetables for detox drink, along with garlic oil.
                  """
 #announcement_text = "[TOTAL PASHIMINA...](/promo-order)"
 announcement_link = "/promotion"
@@ -22,17 +22,17 @@ related_blog_limit = 7
 
 # Navigation
 [params.navigation]
-brand = "DalaFarm"
+brand = "Điện cơ Thanh Hiền"
 product = "Products"
 about = "About Us"
-team = "DalaFarm Team"
+team = "Điện cơ Thanh Hiền Team"
 contact = "Contact Us"
 # Optional logo as brand stored in img/
 #logo = "logo.svg"
 
 # Hero section
 [params.hero]
-title = "Welcome to DalaFarm!"
+title = "Welcome to Điện cơ Thanh Hiền!"
 subtitle = "It's nice to meet you"
 buttonText = "See product offering"
 buttonPath = "/san-pham/"
@@ -50,7 +50,7 @@ path = "product"
 [params.review]
 enable = false
 title = "Feedback"
-subtitle = "See what customers say about DalaFarm products"
+subtitle = "See what customers say about Điện cơ Thanh Hiền products"
 path = "phan-hoi"
     [[params.review.reviews]]
       img = "yen-nguyen.jpg"
@@ -62,7 +62,7 @@ path = "phan-hoi"
       img = "tai-phan.jpg"
       name = "Tài Phan"
       position = "Senior Head teacher at outerspace language school"
-      content = "I have been using DalaFarm products. If you are eating vegetables is a torture, you will forget it when using DalaFarm."
+      content = "I have been using Điện cơ Thanh Hiền products. If you are eating vegetables is a torture, you will forget it when using Điện cơ Thanh Hiền."
 
     [[params.review.reviews]]
       img = "uyen-to.jpg"
@@ -79,7 +79,7 @@ path = "phan-hoi"
 # About section
 [params.about]
 enable = true
-    title = "DalaFarm Story"
+    title = "Điện cơ Thanh Hiền Story"
     subtitle = "How our journey started."
     endpoint = "Be part<br> of our <br>story!"
     path = "about-us"
@@ -98,14 +98,14 @@ enable = true
     [[params.about.events]]
       img = "dalafarm.png"
       date = "March 2017"
-      title = "DalaFarm story began"
-      description = "Share the same passion about high quality Vietnamese products, Ms. Hà and Ms. Trâm merged Đức Hà và Dalahouse into one unified company - namely DalaFarm. With 2 additional co-founders - Ms. Thư and Mr. Vũ, we promise to deliver high quality, healthy and safe products to everyone in the world!"
+      title = "Điện cơ Thanh Hiền story began"
+      description = "Share the same passion about high quality Vietnamese products, Ms. Hà and Ms. Trâm merged Đức Hà và Dalahouse into one unified company - namely Điện cơ Thanh Hiền. With 2 additional co-founders - Ms. Thư and Mr. Vũ, we promise to deliver high quality, healthy and safe products to everyone in the world!"
 
 # Team section
 [params.team]
 enable = true
 center = true
-title = "DalaFarm Team"
+title = "Điện cơ Thanh Hiền Team"
 subtitle = ""
 description = "We are passionate, young and dynamic people with different backgrounds, with share the same motivation to bring the best of Vietnam to the world."
 path = "team"
@@ -157,7 +157,7 @@ title = "Contact Us"
 
 # Add optional form fields to identify contact forms
 [[params.contact.form.hidden]]
-    name = "DalaFarm"
+    name = "Điện cơ Thanh Hiền"
     value = "dalafarm.vn"
 #
 [[params.contact.form.hidden]]
@@ -168,7 +168,7 @@ title = "Contact Us"
 # Footer section
 [params.footer]
 enable = true
-copyright = "Copyright DalaFarm (C) 2017 - 2018"
+copyright = "Copyright Điện cơ Thanh Hiền (C) 2017 - 2018"
 info = """##### DALAFARM - CHUÔNG XANH PRODUCING AND TRADING CO. LTD.
 
 <i class="fa fa-building-o"></i> 317 block D, Lac Long Quan apartment, Ward 5, District 11, HCMC, Vietnam
@@ -193,10 +193,10 @@ info = """##### DALAFARM - CHUÔNG XANH PRODUCING AND TRADING CO. LTD.
   link = "https://www.instagram.com/dalafarm.vn/"
 
 [[params.footer.sitemap]]
-  text = "DalaFarm Blog"
+  text = "Điện cơ Thanh Hiền Blog"
   link = "/blog/"
 [[params.footer.sitemap]]
-  text = "DalaFarm Kitchen"
+  text = "Điện cơ Thanh Hiền Kitchen"
   link = "/dala-kitchen/"
 [[params.footer.sitemap]]
   text = "Product"
@@ -205,12 +205,12 @@ info = """##### DALAFARM - CHUÔNG XANH PRODUCING AND TRADING CO. LTD.
   text = "FAQ"
   link = "/qa/"
 [[params.footer.sitemap]]
-  text = "DalaFarm Profile"
+  text = "Điện cơ Thanh Hiền Profile"
   link = "/company-profile/"
 [[params.footer.sitemap]]
   text = "Certificates"
   link = "/company-docs/"
 [[params.footer.sitemap]]
-  text = "DalaFarm Team"
+  text = "Điện cơ Thanh Hiền Team"
   link = "/team/"
 

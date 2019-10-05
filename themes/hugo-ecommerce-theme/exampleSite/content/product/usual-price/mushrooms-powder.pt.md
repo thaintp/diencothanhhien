@@ -14,9 +14,9 @@ aliases = ["/san-pham/bot-nam-50g","/san-pham/bot-nam-bao-ngu-50g"]
 key = "mushroom"
 +++
 
-# Pó De Cogumelo Ostra DalaFarm 
+# Pó De Cogumelo Ostra Điện cơ Thanh Hiền 
 
-O Pó De Cogumelo Ostra DalaFarm é cuidadosamente colhido e processado a partir dos vegetais crus mais frescos e melhores
+O Pó De Cogumelo Ostra Điện cơ Thanh Hiền é cuidadosamente colhido e processado a partir dos vegetais crus mais frescos e melhores
 cresceu em nossa própria fazenda em Lam Dong. Nossos produtos são produzidos pela tecnologia SEFD (patente pendente) e
 é certificada pelo regulador de Segurança Alimentar do Vietnã.
 

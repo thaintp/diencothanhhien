@@ -14,9 +14,9 @@ aliases = ["/san-pham/bot-nam-50g","/san-pham/bot-nam-bao-ngu-50g"]
 key = "mushroom"
 +++
 
-# DalaFarm Oyster Mushroom Powder
+# Điện cơ Thanh Hiền Oyster Mushroom Powder
 
-DalaFarm Oyster Mushroom Powder is carefully picked and processed from the most fresh and best raw vegetables 
+Điện cơ Thanh Hiền Oyster Mushroom Powder is carefully picked and processed from the most fresh and best raw vegetables 
 grown in our own farm in Lam Dong. Our products are produced by SEFD technology (patent pending) and 
 is certified by Vietnam Food Safety regulator.
 

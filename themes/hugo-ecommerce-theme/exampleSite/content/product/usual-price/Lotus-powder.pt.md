@@ -13,7 +13,7 @@ title = "Pó de sementes de lótus (50g)"
 
 # Pó de sementes de lótus
 
-O pó de sementes DalaFarm Lotus é cuidadosamente colhido e processado a partir dos vegetais crus mais frescos e melhores
+O pó de sementes Điện cơ Thanh Hiền Lotus é cuidadosamente colhido e processado a partir dos vegetais crus mais frescos e melhores
 cultivados em nossa própria fazenda em Khanh Hoa. Nossos produtos são produzidos pela tecnologia SEFD (patente pendente) e
 é certificada pelo regulador de Segurança Alimentar do Vietnã.
 

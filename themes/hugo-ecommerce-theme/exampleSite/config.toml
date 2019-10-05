@@ -1,7 +1,7 @@
 # Site settings
 baseurl = "https://dalafarm.vn/"
 languageCode = "vi-vn"
-title = "DalaFarm"
+title = "Điện cơ Thanh Hiền"
 theme = "hugo-ecommerce-theme"
 defaultContentLanguage = "vi"
 # Enter your tracking code to enable Google Analytics
@@ -14,7 +14,7 @@ disableLanguages = ["pt"]
 [Languages]
 #Vietnamese
 [Languages.vi]
-title = "DalaFarm"
+title = "Điện cơ Thanh Hiền"
 weight = 0
 
 [Languages.vi.permalinks]
@@ -27,12 +27,12 @@ weight = 1
 identifier = "blog"
 [[Languages.vi.menu.main]]
 url    = "/blog"
-name   = "DalaFarm Blog"
+name   = "Điện cơ Thanh Hiền Blog"
 weight = 1
 parent = "blog"
 [[Languages.vi.menu.main]]
 url    = "/dala-kitchen"
-name   = "DalaFarm Kitchen"
+name   = "Điện cơ Thanh Hiền Kitchen"
 weight = 2
 parent = "blog"
 
@@ -48,12 +48,12 @@ weight = 3
 
 [[Languages.vi.menu.main]]
 url    = "#"
-name   = "Về DalaFarm"
+name   = "Về Điện cơ Thanh Hiền"
 weight = 4
 identifier = "ve-dalafarm"
 [[Languages.vi.menu.main]]
 url    = "/company-profile"
-name   = "Đôi nét về DalaFarm"
+name   = "Đôi nét về Điện cơ Thanh Hiền"
 weight = 1
 parent = "ve-dalafarm"
 [[Languages.vi.menu.main]]
@@ -63,7 +63,7 @@ weight = 2
 parent = "ve-dalafarm"
 [[Languages.vi.menu.main]]
 url    = "/team"
-name   = "Thành Viên DalaFarm"
+name   = "Thành Viên Điện cơ Thanh Hiền"
 weight = 3
 parent = "ve-dalafarm"
 
@@ -75,7 +75,7 @@ weight = 5
 
 ## English
 [Languages.en]
-title = "DalaFarm"
+title = "Điện cơ Thanh Hiền"
 weight = 0
 
 [Languages.en.permalinks]
@@ -88,12 +88,12 @@ weight = 1
 identifier = "blog"
 [[Languages.en.menu.main]]
 url    = "/blog"
-name   = "DalaFarm Blog"
+name   = "Điện cơ Thanh Hiền Blog"
 weight = 1
 parent = "blog"
 [[Languages.en.menu.main]]
 url    = "/dala-kitchen"
-name   = "DalaFarm Kitchen"
+name   = "Điện cơ Thanh Hiền Kitchen"
 weight = 2
 parent = "blog"
 
@@ -114,7 +114,7 @@ weight = 4
 identifier = "about-us"
 [[Languages.en.menu.main]]
 url    = "/#about-us"
-name   = "DalaFarm Journey"
+name   = "Điện cơ Thanh Hiền Journey"
 weight = 1
 parent = "about-us"
 [[Languages.en.menu.main]]
@@ -129,7 +129,7 @@ weight = 3
 parent = "about-us"
 [[Languages.en.menu.main]]
 url    = "/team"
-name   = "DalaFarm Team"
+name   = "Điện cơ Thanh Hiền Team"
 weight = 4
 parent = "about-us"
 
@@ -141,7 +141,7 @@ weight = 5
 
 ## Portuguese
 [Languages.pt]
-title = "DalaFarm"
+title = "Điện cơ Thanh Hiền"
 weight = 0
 
 [Languages.pt.permalinks]
@@ -154,12 +154,12 @@ weight = 1
 identifier = "blog"
 [[Languages.pt.menu.main]]
 url    = "/blog"
-name   = "Blog DalaFarm"
+name   = "Blog Điện cơ Thanh Hiền"
 weight = 1
 parent = "blog"
 [[Languages.pt.menu.main]]
 url    = "/dala-kitchen"
-name   = "Cozinha DalaFarm"
+name   = "Cozinha Điện cơ Thanh Hiền"
 weight = 2
 parent = "blog"
 
@@ -180,7 +180,7 @@ weight = 4
 identifier = "about-us"
 [[Languages.pt.menu.main]]
 url    = "/#about-us"
-name   = "Jornada DalaFarm"
+name   = "Jornada Điện cơ Thanh Hiền"
 weight = 1
 parent = "about-us"
 [[Languages.pt.menu.main]]
@@ -195,7 +195,7 @@ weight = 3
 parent = "about-us"
 [[Languages.pt.menu.main]]
 url    = "/team"
-name   = "Time DalaFarm"
+name   = "Time Điện cơ Thanh Hiền"
 weight = 4
 parent = "about-us"
 

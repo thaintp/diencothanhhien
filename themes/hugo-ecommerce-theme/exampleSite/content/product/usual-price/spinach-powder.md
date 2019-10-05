@@ -22,10 +22,10 @@ aliases = ["/san-pham/bot-rau-bo-xoi-50g","/san-pham/bot-cai-bo-xoi-50g"]
 key = "spinach"
 +++
 
-# Bột Rau Bó Xôi DalaFarm (Bột Cải Bó Xôi DalaFarm) (dùng liền)
+# Bột Rau Bó Xôi Điện cơ Thanh Hiền (Bột Cải Bó Xôi Điện cơ Thanh Hiền) (dùng liền)
 
 Được chọn lọc và chế biến từ những nguyên liệu 
-tươi ngon không hóa chất trồng tại DalaFarm, Lâm Đồng. Sản phẩm được 
+tươi ngon không hóa chất trồng tại Điện cơ Thanh Hiền, Lâm Đồng. Sản phẩm được 
 sản xuất bằng công nghệ sấy độc quyền SEFD và được cấp chứng nhận 
 VSATTP Việt Nam.
 

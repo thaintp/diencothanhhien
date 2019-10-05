@@ -1,9 +1,9 @@
 ##Vietnamese
 
 [params]
-name = "DalaFarm"
-description = """DalaFarm cung cấp các sản phẩm bột rau củ, bột rau xanh, bao gồm: dâu tây, cần tây, củ dền, cà rốt, diếp cá, cả bó xôi, cà chua, rau má,
-                 hạt sen. DalaFarm còn cung cấp bột rau củ hỗn hợp để pha thức uống giải độc detox
+name = "Điện cơ Thanh Hiền"
+description = """Điện cơ Thanh Hiền cung cấp các sản phẩm bột rau củ, bột rau xanh, bao gồm: dâu tây, cần tây, củ dền, cà rốt, diếp cá, cả bó xôi, cà chua, rau má,
+                 hạt sen. Điện cơ Thanh Hiền còn cung cấp bột rau củ hỗn hợp để pha thức uống giải độc detox
                  và dầu tỏi."""
 announcement_text = "[TẶNG KHĂN QUÀNG PASHMINA...](/promo-order)"
 announcement_link = "/promotion"
@@ -21,7 +21,7 @@ related_blog_limit = 7
 
 # Navigation
 [params.navigation]
-brand = "DalaFarm"
+brand = "Điện cơ Thanh Hiền"
 product = "Sản phẩm"
 about = "Về Dalafarm"
 team = "Chúng tôi"
@@ -49,7 +49,7 @@ path = "san-pham"
 [params.review]
 enable = true
 title = "Phản hồi"
-subtitle = "Xem khách hàng của DalaFarm nói gì về sản phẩm nhé"
+subtitle = "Xem khách hàng của Điện cơ Thanh Hiền nói gì về sản phẩm nhé"
 path = "phan-hoi"
     [[params.review.reviews]]
       img = "yen-nguyen.jpg"
@@ -61,7 +61,7 @@ path = "phan-hoi"
       img = "tai-phan.jpg"
       name = "Tài Phan"
       position = "Senior Head teacher at outerspace language school"
-      content = "Tôi đã và đang sử dụng sản phẩm của DalaFarm. Nếu bạn đang cảm thấy ăn rau là môt nỗi cực hình thì bạn sẽ quên nó ngay khi sử dụng DalaFarm."
+      content = "Tôi đã và đang sử dụng sản phẩm của Điện cơ Thanh Hiền. Nếu bạn đang cảm thấy ăn rau là môt nỗi cực hình thì bạn sẽ quên nó ngay khi sử dụng Điện cơ Thanh Hiền."
 
     [[params.review.reviews]]
       img = "uyen-to.jpg"
@@ -78,9 +78,9 @@ path = "phan-hoi"
 # About section
 [params.about]
 enable = false
-    title = "Hành Trình DalaFarm"
+    title = "Hành Trình Điện cơ Thanh Hiền"
     subtitle = "Hành trình của chúng tôi đã bắt đầu như thế nào."
-    endpoint = "Hãy đồng <br>hành cùng <br>DalaFarm!"
+    endpoint = "Hãy đồng <br>hành cùng <br>Điện cơ Thanh Hiền!"
     path = "ve-dalafarm"
     [[params.about.events]]
       img = "toi-den-duc-ha.png"
@@ -97,14 +97,14 @@ enable = false
     [[params.about.events]]
       img = "dalafarm.png"
       date = "March 2017"
-      title = "Câu chuyện DalaFarm bắt đầu"
-      description = "Chia sẻ chung niềm đam mê về sản xuất và kinh doanh các sản phẩm Việt Nam chất lượng cao, Ms. Hà và Ms. Trâm đã hợp nhất 2 công ty Đức Hà và Dalahouse lại thành 1 công ty duy nhất mang tên DalaFarm. Cùng với 2 cộng sự khác - Ms. Thư và Mr. Vũ, chúng tôi cam kết mang những sản phẩm sạch, chất lượng cao đến với mọi người tiêu dùng!"
+      title = "Câu chuyện Điện cơ Thanh Hiền bắt đầu"
+      description = "Chia sẻ chung niềm đam mê về sản xuất và kinh doanh các sản phẩm Việt Nam chất lượng cao, Ms. Hà và Ms. Trâm đã hợp nhất 2 công ty Đức Hà và Dalahouse lại thành 1 công ty duy nhất mang tên Điện cơ Thanh Hiền. Cùng với 2 cộng sự khác - Ms. Thư và Mr. Vũ, chúng tôi cam kết mang những sản phẩm sạch, chất lượng cao đến với mọi người tiêu dùng!"
 
 # Team section
 [params.team]
 enable = true
 center = true
-title = "Thành viên nòng cốt DalaFarm"
+title = "Thành viên nòng cốt Điện cơ Thanh Hiền"
 subtitle = ""
 description = "Chúng tôi là một đội ngũ gồm những thành viên có những nền tảng khác nhau nhưng cùng 1 chí hướng để mang những sản phẩm tốt nhất của Việt Nam ra thế giới."
 path = "chung-toi"
@@ -131,7 +131,7 @@ path = "chung-toi"
 # Contact section
 [params.contact]
 enable = true
-title = "Liên hệ với DalaFarm"
+title = "Liên hệ với Điện cơ Thanh Hiền"
     subtitle  = "Hãy để lại 1 lời nhắn và chúng tôi sẽ liên lạc lại trong vòng 1 ngày."
     buttonText = "Gửi tin nhắn"
     thanks = "Cám ơn đã liên hệ với chúng tôi. Chúng tôi sẽ trả lời bạn trong vòng 1 ngày."
@@ -157,7 +157,7 @@ title = "Liên hệ với DalaFarm"
 
 # Add optional form fields to identify contact forms
 [[params.contact.form.hidden]]
-    name = "DalaFarm"
+    name = "Điện cơ Thanh Hiền"
     value = "dalafarm.vn"
 #
 [[params.contact.form.hidden]]
@@ -168,7 +168,7 @@ title = "Liên hệ với DalaFarm"
 # Footer section
 [params.footer]
 enable = true
-copyright = "Bản quyền thuộc DalaFarm (C) 2017 - 2018"
+copyright = "Bản quyền thuộc Điện cơ Thanh Hiền (C) 2017 - 2018"
 info = """##### DALAFARM - CÔNG TY TNHH SXTM CHUÔNG XANH
 
 <i class="fa fa-building-o"></i> 317 Lô D, CC Lạc Long Quân, Phường 5, Quận 11, TP.HCM <i class="fa fa-phone"></i> [0906 951 498](tel:0906 951 498)
@@ -194,10 +194,10 @@ info = """##### DALAFARM - CÔNG TY TNHH SXTM CHUÔNG XANH
   link = "https://www.instagram.com/dalafarm.vn/"
 
 [[params.footer.sitemap]]
-  text = "DalaFarm Blog"
+  text = "Điện cơ Thanh Hiền Blog"
   link = "/blog/"
 [[params.footer.sitemap]]
-  text = "DalaFarm Kitchen"
+  text = "Điện cơ Thanh Hiền Kitchen"
   link = "/dala-kitchen/"
 [[params.footer.sitemap]]
   text = "Sản phẩm"
@@ -206,13 +206,13 @@ info = """##### DALAFARM - CÔNG TY TNHH SXTM CHUÔNG XANH
   text = "Hỏi đáp"
   link = "/qa/"
 [[params.footer.sitemap]]
-  text = "Đôi nét về DalaFarm"
+  text = "Đôi nét về Điện cơ Thanh Hiền"
   link = "/company-profile/"
 [[params.footer.sitemap]]
   text = "Giấy tờ chứng nhận"
   link = "/company-docs/"
 [[params.footer.sitemap]]
-  text = "Thành viên DalaFarm"
+  text = "Thành viên Điện cơ Thanh Hiền"
   link = "/team/"
 
 

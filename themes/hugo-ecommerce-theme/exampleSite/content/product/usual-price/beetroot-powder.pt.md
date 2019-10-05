@@ -13,7 +13,7 @@ title = "Pó de beterraba (50g)"
 
 # Pó de beterraba
 
-O pó de beterraba DalaFarm é cuidadosamente colhido e processado a partir dos vegetais crus mais frescos e melhores
+O pó de beterraba Điện cơ Thanh Hiền é cuidadosamente colhido e processado a partir dos vegetais crus mais frescos e melhores
 crescidos em nossa própria fazenda em Lam Dong. Nossos produtos são produzidos pela tecnologia SEFD (patente pendente) e
 é certificada pelo regulador de Segurança Alimentar do Vietnã.
 

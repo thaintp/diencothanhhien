@@ -13,7 +13,7 @@ title = "Pó de cenoura (50g)"
 
 # Pó de cenoura
 
-O DalaFarm pó de cenoura é cuidadosamente colhido e processado a partir dos vegetais crus mais frescos e melhores
+O Điện cơ Thanh Hiền pó de cenoura é cuidadosamente colhido e processado a partir dos vegetais crus mais frescos e melhores
 crescidos em nossa própria fazenda em Lam Dong. Nossos produtos são produzidos pela tecnologia SEFD (patente pendente) e
 é certificada pelo regulador de Segurança Alimentar do Vietnã.
 

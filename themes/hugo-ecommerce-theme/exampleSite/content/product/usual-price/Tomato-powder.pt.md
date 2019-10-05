@@ -13,7 +13,7 @@ title = "Pó de Tomate (50g)"
 
 # Pó de Tomate
 
-O Pó de Tomate DalaFarm é cuidadosamente colhido e processado a partir dos vegetais crus mais frescos e melhores
+O Pó de Tomate Điện cơ Thanh Hiền é cuidadosamente colhido e processado a partir dos vegetais crus mais frescos e melhores
 cresceu em nossa própria fazenda em Lam Dong. Nossos produtos são produzidos pela tecnologia SEFD (patente pendente) e
 é certificada pelo regulador de Segurança Alimentar do Vietnã.
 

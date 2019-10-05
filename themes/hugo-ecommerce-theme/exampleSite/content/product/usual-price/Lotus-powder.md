@@ -14,7 +14,7 @@ key = "lotus"
 aliases = ["/san-pham/bot-sen-50g","/san-pham/bot-hat-sen-50g"]
 +++
 
-# Bột Hạt Sen DalaFarm (dùng liền)
+# Bột Hạt Sen Điện cơ Thanh Hiền (dùng liền)
 
 Được chọn lọc và chế biến từ những nguyên liệu 
 tươi ngon không hóa chất trồng tại Ninh Hòa, Khánh Hòa. Sản phẩm được 

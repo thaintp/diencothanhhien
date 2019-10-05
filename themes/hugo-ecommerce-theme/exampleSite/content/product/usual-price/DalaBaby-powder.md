@@ -13,17 +13,17 @@ popular_product = true
 aliases = ["/san-pham/bot-rau-cu-dalababy-70g/","/san-pham/dalababy","/san-pham/bot-rau-cu"]
 +++
 
-# Bột rau củ 7 vị DalaBaby từ DalaFarm
+# Bột rau củ 7 vị DalaBaby từ Điện cơ Thanh Hiền
 
 Được chọn lọc và chế biến từ những nguyên liệu 
-tươi ngon không hóa chất trồng tại DalaFarm, Lâm Đồng. Sản phẩm được 
+tươi ngon không hóa chất trồng tại Điện cơ Thanh Hiền, Lâm Đồng. Sản phẩm được 
 sản xuất bằng công nghệ sấy độc quyền SEFD và được cấp chứng nhận 
 VSATTP Việt Nam.
 
 Theo khuyến cáo của tổ chức y tế thế giới (WHO) chế độ rau củ quả cho trẻ em 
 từ 300 - 400 gram rau tươi/ ngày.
 
-Với bột rau củ DalaFarm khoảng 3-5g bột rau củ sẽ tương đương 80-100 gram 
+Với bột rau củ Điện cơ Thanh Hiền khoảng 3-5g bột rau củ sẽ tương đương 80-100 gram 
 rau tươi. Nên chỉ cần cung cấp khoảng 15-20 gram bột rau củ mỗi ngày là sẽ yên tâm 
 có đủ chất xơ và vitamin cho bé yêu của bạn.
 
@@ -47,7 +47,7 @@ có đủ chất xơ và vitamin cho bé yêu của bạn.
 
 Bột gồm 14 gói (7 gói x 7 vị x 2 gói/ vị)
 
-Bột DalaFarm giúp bé thay đổi mùi vị và cung cấp đầy đủ các loại vitamins từ rau củ quả.
+Bột Điện cơ Thanh Hiền giúp bé thay đổi mùi vị và cung cấp đầy đủ các loại vitamins từ rau củ quả.
 
 ### Công dụng
 
@@ -70,7 +70,7 @@ có thể gây ra bệnh còi xương và làm cho hệ thống miễn dịch c�
 
 * Dùng với cháo: Cháo nấu chín, múc cháo 
 ra chén, lấy 3 - 5 gram bột tức khoảng 
-1-2 thìa bột(15 - 20 gram bột rau củ DalaFarm chứa lượng chất xơ tương đương 80-100 gram 
+1-2 thìa bột(15 - 20 gram bột rau củ Điện cơ Thanh Hiền chứa lượng chất xơ tương đương 80-100 gram 
 rau tươi). Bỏ trực tiếp vào cháo khuấy đều 
 là bé có thể dùng được. 
 

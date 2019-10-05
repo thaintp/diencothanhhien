@@ -12,11 +12,11 @@ Mua đơn hàng trị giá từ **#350k** trở lên nhận ngay **1 Khăn choà
 
 **PHẦN QUÀ LẦN 2:  Quà cho con yêu** 
 
-Phiếu voucher trị giá #300k khi mua sản phẩm tại DalaFarm
+Phiếu voucher trị giá #300k khi mua sản phẩm tại Điện cơ Thanh Hiền
 
-Khi các mẹ sử dụng bột rau củ DalaFarm để quay clip chuẩn bị món ăn và cho bé yêu ăn, up lên Fb với hashtag #dalafarm #mua1nhan2  cùng mã đơn hàng đã mua trong tháng 10. 
+Khi các mẹ sử dụng bột rau củ Điện cơ Thanh Hiền để quay clip chuẩn bị món ăn và cho bé yêu ăn, up lên Fb với hashtag #dalafarm #mua1nhan2  cùng mã đơn hàng đã mua trong tháng 10. 
 
-Mẹ sẽ được tặng ngay **1 voucher trị giá #300k** trực tiếp trên hoá đơn khi mua sản phẩm DalaFarm tại website https://dalafarm.vn
+Mẹ sẽ được tặng ngay **1 voucher trị giá #300k** trực tiếp trên hoá đơn khi mua sản phẩm Điện cơ Thanh Hiền tại website https://dalafarm.vn
 
 Lưu ý: Chương trình khuyến mãi kết thúc vào lúc 23:59 ngày 20-10-2018.
 

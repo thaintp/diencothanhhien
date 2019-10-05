@@ -5,12 +5,12 @@ weight = 1
 identifier = "blog"
 [[menu.main]]
 url    = "/blog"
-name   = "DalaFarm Blog"
+name   = "Điện cơ Thanh Hiền Blog"
 weight = 1
 parent = "blog"
 [[menu.main]]
 url    = "/dala-kitchen"
-name   = "DalaFarm Kitchen"
+name   = "Điện cơ Thanh Hiền Kitchen"
 weight = 2
 parent = "blog"
 
@@ -26,12 +26,12 @@ weight = 3
 
 [[menu.main]]
 url    = "#"
-name   = "Về DalaFarm"
+name   = "Về Điện cơ Thanh Hiền"
 weight = 4
 identifier = "ve-dalafarm"
 [[menu.main]]
 url    = "/company-profile"
-name   = "Đôi nét về DalaFarm"
+name   = "Đôi nét về Điện cơ Thanh Hiền"
 weight = 1
 parent = "ve-dalafarm"
 [[menu.main]]
@@ -41,7 +41,7 @@ weight = 2
 parent = "ve-dalafarm"
 [[menu.main]]
 url    = "/team"
-name   = "Thành Viên DalaFarm"
+name   = "Thành Viên Điện cơ Thanh Hiền"
 weight = 3
 parent = "ve-dalafarm"
 
