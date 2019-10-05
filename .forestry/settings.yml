@@ -1,0 +1,122 @@
+---
+new_page_extension: md
+auto_deploy: false
+admin_path: 
+webhook_url: 
+sections:
+- type: directory
+  path: content
+  label: Pages
+  create: all
+  match: "*"
+- type: directory
+  path: content/thank-you
+  label: Thank you
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/view-order
+  label: View order
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/qa
+  label: Qa
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/product
+  label: Product
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/promo-order
+  label: Promo order
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/company-profile
+  label: Company profile
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/term-condition
+  label: Term condition
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/promo-confirm
+  label: Promo confirm
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/confirm
+  label: Confirm
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/dala-kitchen
+  label: Dala kitchen
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/official-distributors
+  label: Official distributors
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/company-docs
+  label: Company docs
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/blog
+  label: Blog
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/shipping
+  label: Shipping
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/promo-shipping
+  label: Promo shipping
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/promotion
+  label: Promotion
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/qr
+  label: Qr
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/team
+  label: Team
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/order
+  label: Order
+  create: all
+  match: "**/*"
+upload_dir: static/uploads
+public_path: "/uploads"
+front_matter_path: ''
+use_front_matter_path: false
+file_template: ":filename:"
+build:
+  preview_env:
+  - HUGO_ENV=staging
+  - HUGO_VERSION=0.58.2
+  preview_output_directory: public
+  preview_docker_image: forestryio/hugo:latest
+  mount_path: "/srv"
+  working_dir: "/srv"
+  instant_preview_command: hugo server -D -E -F --port 8080 --bind 0.0.0.0 --renderToDisk
+    -d public
+version: 0.58.2
