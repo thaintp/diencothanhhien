@@ -1,0 +1,3 @@
+[submodule "themes/hugo-ecommerce-theme"]
+	path = themes/hugo-ecommerce-theme
+	url = https://github.com/LeeU1911/hugo-ecommerce-theme.git

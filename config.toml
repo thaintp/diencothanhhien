@@ -1,0 +1,206 @@
+# Site settings
+baseurl = "https://dalafarm.vn/"
+languageCode = "vi-vn"
+title = "Điện cơ Thanh Hiền"
+theme = "hugo-ecommerce-theme"
+defaultContentLanguage = "vi"
+# Enter your tracking code to enable Google Analytics
+#googleAnalytics = "UA-87063471-2"
+disqusShortname = "dalafarm"
+paginate = 8
+disableLanguages = ["pt"]
+
+##########################################
+[Languages]
+#Vietnamese
+[Languages.vi]
+title = "Điện cơ Thanh Hiền"
+weight = 0
+
+[Languages.vi.permalinks]
+product = "/san-pham/:slug"
+
+[[Languages.vi.menu.main]]
+url    = "#"
+name   = "Bài viết"
+weight = 1
+identifier = "blog"
+[[Languages.vi.menu.main]]
+url    = "/blog"
+name   = "Sản phẩm mới"
+weight = 1
+parent = "blog"
+[[Languages.vi.menu.main]]
+url    = "/dala-kitchen"
+name   = "Hướng dẫn"
+weight = 2
+parent = "blog"
+
+[[Languages.vi.menu.main]]
+url    = "/san-pham"
+name   = "Sản Phẩm"
+weight = 2
+
+[[Languages.vi.menu.main]]
+url    = "/qa"
+name   = "Hỏi Đáp"
+weight = 3
+
+[[Languages.vi.menu.main]]
+url    = "#"
+name   = "Về Điện cơ Thanh Hiền"
+weight = 4
+identifier = "ve-dalafarm"
+[[Languages.vi.menu.main]]
+url    = "/company-profile"
+name   = "Đôi nét về Điện cơ Thanh Hiền"
+weight = 1
+parent = "ve-dalafarm"
+[[Languages.vi.menu.main]]
+url    = "/company-docs"
+name   = "Giấy tờ chứng nhận"
+weight = 2
+parent = "ve-dalafarm"
+[[Languages.vi.menu.main]]
+url    = "/team"
+name   = "Thành Viên Điện cơ Thanh Hiền"
+weight = 3
+parent = "ve-dalafarm"
+
+
+[[Languages.vi.menu.main]]
+url    = "/#contact"
+name   = "Liên Hệ"
+weight = 5
+
+## English
+[Languages.en]
+title = "Điện cơ Thanh Hiền"
+weight = 0
+
+[Languages.en.permalinks]
+product = "/product/:slug"
+
+[[Languages.en.menu.main]]
+url    = "#"
+name   = "Blog"
+weight = 1
+identifier = "blog"
+[[Languages.en.menu.main]]
+url    = "/blog"
+name   = "Điện cơ Thanh Hiền Blog"
+weight = 1
+parent = "blog"
+[[Languages.en.menu.main]]
+url    = "/dala-kitchen"
+name   = "Điện cơ Thanh Hiền Kitchen"
+weight = 2
+parent = "blog"
+
+[[Languages.en.menu.main]]
+url    = "/product"
+name   = "Products"
+weight = 2
+
+[[Languages.en.menu.main]]
+url    = "/qa"
+name   = "FAQ"
+weight = 3
+
+[[Languages.en.menu.main]]
+url    = "#"
+name   = "About Us"
+weight = 4
+identifier = "about-us"
+[[Languages.en.menu.main]]
+url    = "/#about-us"
+name   = "Điện cơ Thanh Hiền Journey"
+weight = 1
+parent = "about-us"
+[[Languages.en.menu.main]]
+url    = "/company-profile"
+name   = "Profile"
+weight = 2
+parent = "about-us"
+[[Languages.en.menu.main]]
+url    = "/company-docs"
+name   = "Certificates"
+weight = 3
+parent = "about-us"
+[[Languages.en.menu.main]]
+url    = "/team"
+name   = "Điện cơ Thanh Hiền Team"
+weight = 4
+parent = "about-us"
+
+
+[[Languages.en.menu.main]]
+url    = "/#contact"
+name   = "Contact"
+weight = 5
+
+## Portuguese
+[Languages.pt]
+title = "Điện cơ Thanh Hiền"
+weight = 0
+
+[Languages.pt.permalinks]
+product = "/product/:slug"
+
+[[Languages.pt.menu.main]]
+url    = "#"
+name   = "Blog"
+weight = 1
+identifier = "blog"
+[[Languages.pt.menu.main]]
+url    = "/blog"
+name   = "Blog Điện cơ Thanh Hiền"
+weight = 1
+parent = "blog"
+[[Languages.pt.menu.main]]
+url    = "/dala-kitchen"
+name   = "Cozinha Điện cơ Thanh Hiền"
+weight = 2
+parent = "blog"
+
+[[Languages.pt.menu.main]]
+url    = "/product"
+name   = "Produtos"
+weight = 2
+
+[[Languages.pt.menu.main]]
+url    = "/qa"
+name   = "FAQ"
+weight = 3
+
+[[Languages.pt.menu.main]]
+url    = "#"
+name   = "Sobre nós"
+weight = 4
+identifier = "about-us"
+[[Languages.pt.menu.main]]
+url    = "/#about-us"
+name   = "Jornada Điện cơ Thanh Hiền"
+weight = 1
+parent = "about-us"
+[[Languages.pt.menu.main]]
+url    = "/company-profile"
+name   = "Perfil"
+weight = 2
+parent = "about-us"
+[[Languages.pt.menu.main]]
+url    = "/company-docs"
+name   = "Certificados"
+weight = 3
+parent = "about-us"
+[[Languages.pt.menu.main]]
+url    = "/team"
+name   = "Time Điện cơ Thanh Hiền"
+weight = 4
+parent = "about-us"
+
+[[Languages.pt.menu.main]]
+url    = "/#contact"
+name   = "Contato"
+weight = 5
+
