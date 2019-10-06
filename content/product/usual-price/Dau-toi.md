@@ -1,15 +1,18 @@
 +++
 date = "2017-05-07T14:31:45+08:00"
-expirydate = "2017-05-07T14:31:45+08:00"
+publishdate = "2017-06-01T00:00:00+07:00"
 description = "Dầu tỏi tía nguyên chất chai 250 ml"
 price = "150,000"
 img = ["DAU 1.jpg","DAU 2.jpg","DAU 3.jpg","DAU 4.jpg","DAU 5.jpg"]
 product_line = ""
 tags = ["garlic-oil","DalaBaby-powder"]
 thumbnail = "dau-toi-tn"
+thumbnailX = 70
 title = "Dầu tỏi tía Đà Lạt (250ml)"
-weight = 4
-discounted_percent = "Tạm hết"
+url = "/san-pham/dautoi"
+aliases = ["/san-pham/dầu-tỏi"]
+weight = 3
+key = "dautoi"
 +++
 
 # DẦU TỎI TÍA ĐÀ LẠT

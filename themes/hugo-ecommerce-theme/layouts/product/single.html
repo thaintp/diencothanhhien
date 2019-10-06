@@ -75,7 +75,8 @@
             </div>
         </div>
         <br>
-        <div class="row">
+        {{ partial "disqus.html" . }}
+<!--         <div class="row">
             <div class="col-md-12">
                 <div class="fb-comments" data-href="{{ .Permalink }}" data-numposts="10"></div>
             </div>
@@ -90,7 +91,7 @@
             </div>
         </div>
         <br>
-        <div class="row">
+ -->        <div class="row">
             <div class="col-md-12">
 
                 {{ range first 1 (where (where .Site.Pages ".Params.tags" "intersect" .Params.tags) "Permalink" "!=" .Permalink) }}

@@ -5,7 +5,7 @@ name = "Điện cơ Thanh Hiền"
 description = """Điện cơ Thanh Hiền cung cấp các sản phẩm bột rau củ, bột rau xanh, bao gồm: dâu tây, cần tây, củ dền, cà rốt, diếp cá, cả bó xôi, cà chua, rau má,
                  hạt sen. Điện cơ Thanh Hiền còn cung cấp bột rau củ hỗn hợp để pha thức uống giải độc detox
                  và dầu tỏi."""
-announcement_text = "[TẶNG KHĂN QUÀNG PASHMINA...](/promo-order)"
+announcement_text = "[Giảm giá 5% nạp điện thoại...](/promo-order)"
 announcement_link = "/promotion"
 discount_code_success_alert = "Chúc mừng bạn đã nhận được khuyến mãi "
 # Link custom assets relative to /static
@@ -21,9 +21,9 @@ related_blog_limit = 7
 
 # Navigation
 [params.navigation]
-brand = "Điện cơ Thanh Hiền"
+brand = "ĐC Thanh Hiền"
 product = "Sản phẩm"
-about = "Về Dalafarm"
+about = "Điện cơ Thanh Hiền"
 team = "Chúng tôi"
 contact = "Liên hệ"
 # Optional logo as brand stored in img/
@@ -31,9 +31,9 @@ contact = "Liên hệ"
 
 # Hero section
 [params.hero]
-title = "Bổ sung chất xơ tiện lợi gấp từ 5 lần rau củ tươi*"
-subtitle = "Bột rau xanh nguyên chất"
-buttonText = "Tìm hiểu"
+title = "Điện gia dụng, gia vị nấu ăn, đồ thờ cúng,..."
+subtitle = "Giá rẻ bất ngờ"
+buttonText = "Tìm hiểu ngay"
 buttonPath = "/san-pham/"
 orderButtonText = "MUA"
 nextButtonText = "TIẾP"
@@ -55,25 +55,25 @@ path = "phan-hoi"
       img = "yen-nguyen.jpg"
       name = "Yến Nguyễn"
       position = "Software engineer at DXC Vietnam"
-      content = "Mình đã dùng sản phẩm pha chung bột cho bé ăn, bé rất thích và dạ dày bé có vẻ dễ tiêu hóa hơn. Cảm ơn shop."
+      content = "Mình đã dùng sản phẩm của shop, dùng rất bền và ok nhé. Cảm ơn shop!"
 
     [[params.review.reviews]]
       img = "tai-phan.jpg"
       name = "Tài Phan"
       position = "Senior Head teacher at outerspace language school"
-      content = "Tôi đã và đang sử dụng sản phẩm của Điện cơ Thanh Hiền. Nếu bạn đang cảm thấy ăn rau là môt nỗi cực hình thì bạn sẽ quên nó ngay khi sử dụng Điện cơ Thanh Hiền."
+      content = "Tôi đã và đang sử dụng sản phẩm của Điện cơ Thanh Hiền. Hàng cực kì bền và giá cả phải chăng, các bạn nên ghé ủng hộ chú nha."
 
     [[params.review.reviews]]
       img = "uyen-to.jpg"
       name = "Tố Uyên"
       position = "Ho Chi Minh City, Vietnam"
-      content = "Bột rau diếp cá này xài siêu thích. Dễ uống, không nặng mùi như rau, pha với nước thêm xíu đường thêm ít đá là toẹt vời luôn ý."
+      content = "Mình từng ghé chỗ chú sửa đồ nhiều lần, chú nói chuyện rất thân thiện và chiều khách, sửa cũng rất nhanh nữa, nói chung là rất hài lòng."
 
     [[params.review.reviews]]
       img = "nguyen-thu-thao.jpg"
       name = "Nguyễn Thu Thảo"
       position = "Ho Chi Minh City, Vietnam"
-      content = "Mình thử cho con gái 5 tuổi uống xem nó nhận xét thế nào mà uống vô một vài ngụm là nó phát biểu luôn \"Cái này là sinh tố bông cải phải không mẹ?\" Hihi..."
+      content = "Chỗ chú này đồ gì cũng có cả, mình may mắn vô ngay tiệm chú, xong không cần phải đi tìm thêm chỗ bán các sản phẩm khác nữa luôn, hihi."
 
 # About section
 [params.about]
@@ -135,8 +135,8 @@ title = "Liên hệ với Điện cơ Thanh Hiền"
     subtitle  = "Hãy để lại 1 lời nhắn và chúng tôi sẽ liên lạc lại trong vòng 1 ngày."
     buttonText = "Gửi tin nhắn"
     thanks = "Cám ơn đã liên hệ với chúng tôi. Chúng tôi sẽ trả lời bạn trong vòng 1 ngày."
-    error = "Tin nhắn không gửi được. Vui lòng email cho chúng tôi qua info@dalafarm.vn"
-    email = "info@dalafarm.vn"
+    error = "Tin nhắn không gửi được. Vui lòng email cho chúng tôi qua diencothanhhien@gmail.com"
+    email = "diencothanhhien@gmail.com"
 
 # 'warning' defines error messages for invalid inputs
 [params.contact.form.name]
@@ -168,16 +168,16 @@ title = "Liên hệ với Điện cơ Thanh Hiền"
 # Footer section
 [params.footer]
 enable = true
-copyright = "Bản quyền thuộc Điện cơ Thanh Hiền (C) 2017 - 2018"
-info = """##### DALAFARM - CÔNG TY TNHH SXTM CHUÔNG XANH
+copyright = "Bản quyền thuộc Điện cơ Thanh Hiền (C) 2019 - 2022"
+info = """##### ĐCTH - DNTN Điện cơ Thanh Hiền
 
-<i class="fa fa-building-o"></i> 317 Lô D, CC Lạc Long Quân, Phường 5, Quận 11, TP.HCM <i class="fa fa-phone"></i> [0906 951 498](tel:0906 951 498)
+<i class="fa fa-building-o"></i> Chợ Cái Tàu Hạ, huyện Châu Thành, tỉnh Đồng Tháp <i class="fa fa-phone"></i> [0939 0747 08](tel:0939 0747 08)
 
-<i class="fa fa-cogs"></i> Tổ 18, thôn Xuân Ngọc, xã Vĩnh Ngọc, Nha Trang, Khánh Hòa
+<i class="fa fa-cogs"></i> Số 42 Trần Trung Sĩ, Cái Tàu Hạ, huyện Châu Thành, tỉnh Đồng Tháp
 
-<i class="fa fa-envelope"></i> [info@dalafarm.vn](mailto:info@dalafarm.vn)
+<i class="fa fa-envelope"></i> [diencothanhhien@gmail.com](mailto:diencothanhhien@gmail.com)
 
-<i class="fa fa-calendar"></i> Thứ 2 - thứ 7 <i class="fa fa-clock-o"></i> 8:00 - 17:00
+<i class="fa fa-calendar"></i> Thứ 2 - Chủ nhật <i class="fa fa-clock-o"></i> 6:00 - 18:00
 """
 
 [[params.footer.quicklinks]]
@@ -185,13 +185,13 @@ info = """##### DALAFARM - CÔNG TY TNHH SXTM CHUÔNG XANH
   link = "/term-condition"
 [[params.footer.social]]
   icon = "fa-facebook"
-  link = "https://www.facebook.com/dalafarm.com.vn/"
+  link = "https://www.facebook.com/hacbangtam/"
 [[params.footer.social]]
-  icon = "fa-pinterest"
-  link = "https://www.pinterest.com/dalafarm/"
+  icon = "fa-twitter"
+  link = "https://www.twitter.com/hacbangtam/"
 [[params.footer.social]]
   icon = "fa-instagram"
-  link = "https://www.instagram.com/dalafarm.vn/"
+  link = "https://www.instagram.com/hacbangtam/"
 
 [[params.footer.sitemap]]
   text = "Điện cơ Thanh Hiền Blog"

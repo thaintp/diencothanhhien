@@ -13,7 +13,6 @@ url = "/san-pham/bot-sup-lo-xanh-50g"
 aliases = ["/san-pham/bột-súp-lơ-xanh-50g"]
 weight = 3
 key = "broccoli"
-popular_product = true
 +++
 
 # Bột Súp Lơ Điện cơ Thanh Hiền (dùng liền)

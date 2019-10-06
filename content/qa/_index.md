@@ -4,13 +4,16 @@ date = "2017-03-21T21:52:24+08:00"
 
 +++
 
-# Mua bột rau củ Điện cơ Thanh Hiền ở đâu?
-Tại Hồ Chí Minh, bạn có thể ghé thăm Số 5 Hoàng Dư Khương, P. 12, Quận 10 để mua trự tiếp sản phẩm của Điện cơ Thanh Hiền.
-Hoặc đặt hàng trực tuyến tại website http://dalafarm.vn để được giao tận nơi cho mọi đơn hàng trên toàn quốc. 
+# Mua sản phẩm Điện cơ Thanh Hiền ở đâu?
+Tại Đồng Tháp, bạn có thể ghé thăm Chợ Cái Tàu Hạ, huyện Châu Thành, Đồng Tháp để mua trực tiếp sản phẩm của Điện cơ Thanh Hiền.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d981.5067804653863!2d105.86976542920073!3d10.259396099542101!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x310a81773880742b%3A0xd5ad68e157c81ed4!2zxJBp4buHbiBjxqEgVGhhbmggSGnhu4Fu!5e0!3m2!1svi!2s!4v1570321936923!5m2!1svi!2s" width="100%" height="300px" frameborder="0" style="border:4px red; border-radius: 4px; text-align: center" allowfullscreen=""></iframe>
+
+Hoặc đặt hàng trực tuyến tại website http://diencothanhhien.netlify.com để được giao tận nơi cho mọi đơn hàng trên toàn quốc. 
 
 <a href="/order" class="page-scroll btn btn-xl">Mua Ngay</a>
   
-# Cách sử dụng bột rau củ Điện cơ Thanh Hiền như thế nào?
+<!-- # Cách sử dụng bột rau củ Điện cơ Thanh Hiền như thế nào?
 Pha trực tiếp từ 1 đến 2 muỗng cà phê bột (tương đương 3 đến 5 gram bột) vào 300ml nước lọc ấm (không cần nước sôi), 
 sau đó đánh hoà tan đều lên là có thể dùng được.
 
@@ -133,6 +136,8 @@ Nếu bé dùng 1 ngày 2 lần thì gói 50 gram bé dùng trong 5 ngày.
 
 Trong quá trình đó, Điện cơ Thanh Hiền vẫn đang tích cực nỗ lực hết sức để cải tiến, hoàn thiện và hướng tới việc đạt tiêu chuẩn hữu cơ (Organic) khắc khe (ví dụ: đất trồng rau củ không được sử dụng phân hóa học từ trên 3 năm trở đi), để đáp lại lòng tin yêu của những khách hàng luôn tin tưởng và ủng hộ Điện cơ Thanh Hiền.‎
  
+ -->
+
 # Cách thanh toán 
 
 Điện cơ Thanh Hiền khuyến khích khách hàng thanh toán qua hình thức chuyển khoản qua internet banking hoặc app trên điện thoại di động vì không cần mang và giữ tiền mặt trong người phòng ngừa bị mất cắp hoặc rơi rớt.
@@ -141,38 +146,27 @@ Tuy nhiên, Điện cơ Thanh Hiền vẫn nhận những hình thức thanh to�
 
 Quý khách chọn hình thức chuyển khoản vui lòng chuyển khoản vào tài khoản công ty Điện cơ Thanh Hiền:
  
-- Ngân hàng: **Vietcombank**
-- Chi nhánh: **Gia Lai**
-- Số tài khoản: **0291000099551**
-- Tên người thụ hưởng: **Võ Thị Thanh Thư**
+- Ngân hàng: **BIDV**
+- Chi nhánh: **Đồng Tháp**
+- Số tài khoản: **69610000171555**
+- Tên người thụ hưởng: **Ngô Thanh Phương Thái**
 - Nội dung chuyển khoản: Thanh toán đơn hàng mã **123xyz** (trong đó, **123xyz** là mã đơn hàng 6 ký tự được tạo ra bởi hệ thống Điện cơ Thanh Hiền. Khách hàng vui lòng yêu cầu mã này trước khi thanh toán đơn hàng.)
-
-hoặc
-
-- Ngân hàng: **TMCP VP Bank (Việt Nam Thịnh Vượng)**
-- Loại ngân hàng: **Thương Mại Cổ Phần**
-- Chi nhánh: **Hồ Chí Minh** (hoặc **Chi Nhánh Sài Gòn**)
-- Số tài khoản: **131396996**
-- Số thẻ (trong trường hợp bạn muốn chuyển qua số thẻ ATM): **9704 3211 2882 3340**
-- Tên người thụ hưởng: **Võ Thị Thanh Thư**
-- Nội dung chuyển khoản: Thanh toán đơn hàng mã **123xyz** (trong đó, **123xyz** là mã đơn hàng 6 ký tự được tạo ra bởi hệ thống Điện cơ Thanh Hiền. Khách hàng vui lòng yêu cầu mã này trước khi thanh toán đơn hàng.)
-
 
 Sau khi chuyển khoản, quý khách vui lòng nhắn tin facebook messenger cho Điện cơ Thanh Hiền để xác nhận nhằm trường hợp chuyển khoản khác ngân hàng không đến liền.
 
 
 # Làm sao để trở thành đại lý kinh doanh phân phối sản phẩm Điện cơ Thanh Hiền 
 
-Các anh chị muốn đăng ký làm đại lý phân phối sản phẩm Điện cơ Thanh Hiền, vui lòng liên hệ qua email [sale@dalafarm.vn](mailto:sale@dalafarm.vn) với nội dung sau:   
+Các anh chị muốn đăng ký làm đại lý phân phối sản phẩm Điện cơ Thanh Hiền, vui lòng liên hệ qua email [diencothanhhien@gmail.com](mailto:diencothanhhien@gmail.com) với nội dung sau:   
 
 - Kinh nghiệm bán hàng ONLINE/OFFLINE của bạn 
 - Link Facebook cá nhân của bạn (Link Fanpage nếu có) 
-- Bạn đã sử dụng bột rau củ Điện cơ Thanh Hiền chưa? 
-- Vì sao bạn chọn bột rau củ Điện cơ Thanh Hiền để phân phối? 
+- Bạn đã sử dụng sản phẩm Điện cơ Thanh Hiền chưa? 
+- Vì sao bạn chọn sản phẩm Điện cơ Thanh Hiền để phân phối? 
 - Mong muốn của bạn khi làm đại lý cho bột rau củ Điện cơ Thanh Hiền? 
 - Họ Tên & số điện thoại (để chúng tôi tiện liên hệ lại) 
 
-Hotline Điện cơ Thanh Hiền: [0906951498](tel:0906951498) 
+Hotline Điện cơ Thanh Hiền: [0939074708](tel:0939074708) 
 
 Chúng tôi sẽ gửi các chính sách mức chiết khấu đại lý và liên hệ lại với anh chị trong thời gian ngắn. 
 

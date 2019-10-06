@@ -7,9 +7,9 @@
       </div>
       <div class="col-md-4">
         <ul class="list-inline social-buttons">
-          <div class="fb-page" data-href="https://www.facebook.com/Dalafarm.com.vn" data-tabs="timeline" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/Dalafarm.com.vn" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/Dalafarm.com.vn">Điện cơ Thanh Hiền</a></blockquote></div>
-          <br/>
-          <br/>
+          <!-- <div class="fb-page" data-href="https://facebook.com/hacbangtam" data-tabs="timeline" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://facebook.com/hacbangtam" class="fb-xfbml-parse-ignore"><a href="https://facebook.com/hacbangtam">Điện cơ Thanh Hiền</a></blockquote></div> -->
+          <!-- <br/> -->
+          <!-- <br/> -->
           {{ range (index .Site.Data .Site.Language.Lang).config.params.footer.social }}
             <li><a href="{{ .link }}" target="_blank"><i class="fa {{ .icon }}"></i></a></li>
           {{ end }}
@@ -26,14 +26,15 @@
       </div>
       <div class="col-md-4 footer-quicklinks">
 		 <span>{{ with (index .Site.Data .Site.Language.Lang).config.params.footer.blog }}{{ . | markdownify }}{{ end }}</span>
-		  <ul class="list-inline quicklinks">
+     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d981.5067804653863!2d105.86976542920073!3d10.259396099542101!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x310a81773880742b%3A0xd5ad68e157c81ed4!2zxJBp4buHbiBjxqEgVGhhbmggSGnhu4Fu!5e0!3m2!1svi!2s!4v1570321936923!5m2!1svi!2s" width="400" height="200" frameborder="0" style="border:none; border-radius: 4px" allowfullscreen=""></iframe>
+<!-- 		  <ul class="list-inline quicklinks">
 
           {{ range (index .Site.Data .Site.Language.Lang).config.params.footer.sitemap }}
             <li style="text-decoration: underline;"><a href="{{ .link | absLangURL }}">{{ .text  | markdownify }}</a></li></br>
           {{ end }}
 
         </ul>
-      </div>
+ -->      </div>
     </div>
   </div>
 </footer>

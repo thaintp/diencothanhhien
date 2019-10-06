@@ -4,11 +4,11 @@ languageCode = "vi-vn"
 title = "Điện cơ Thanh Hiền"
 theme = "hugo-ecommerce-theme"
 defaultContentLanguage = "vi"
-# Enter your tracking code to enable Google Analytics
-#googleAnalytics = "UA-87063471-2"
-disqusShortname = "dalafarm"
+copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
+enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/functions/emojify/
+googleAnalytics = "UA-149344138-1"
 paginate = 8
-disableLanguages = ["pt"]
+disableLanguages = ["en"]
 
 ##########################################
 [Languages]
@@ -48,12 +48,12 @@ weight = 3
 
 [[Languages.vi.menu.main]]
 url    = "#"
-name   = "Về Điện cơ Thanh Hiền"
+name   = "Về ĐCTH"
 weight = 4
 identifier = "ve-dalafarm"
 [[Languages.vi.menu.main]]
 url    = "/company-profile"
-name   = "Đôi nét về Điện cơ Thanh Hiền"
+name   = "Đôi nét về ĐCTH"
 weight = 1
 parent = "ve-dalafarm"
 [[Languages.vi.menu.main]]
@@ -63,11 +63,9 @@ weight = 2
 parent = "ve-dalafarm"
 [[Languages.vi.menu.main]]
 url    = "/team"
-name   = "Thành Viên Điện cơ Thanh Hiền"
+name   = "Thành Viên ĐCTH"
 weight = 3
 parent = "ve-dalafarm"
-
-
 [[Languages.vi.menu.main]]
 url    = "/#contact"
 name   = "Liên Hệ"
@@ -75,7 +73,7 @@ weight = 5
 
 ## English
 [Languages.en]
-title = "Điện cơ Thanh Hiền"
+title = "Thanh Hien Electromechanical"
 weight = 0
 
 [Languages.en.permalinks]
@@ -88,12 +86,12 @@ weight = 1
 identifier = "blog"
 [[Languages.en.menu.main]]
 url    = "/blog"
-name   = "Điện cơ Thanh Hiền Blog"
+name   = "New product"
 weight = 1
 parent = "blog"
 [[Languages.en.menu.main]]
 url    = "/dala-kitchen"
-name   = "Điện cơ Thanh Hiền Kitchen"
+name   = "Guides"
 weight = 2
 parent = "blog"
 
@@ -114,7 +112,7 @@ weight = 4
 identifier = "about-us"
 [[Languages.en.menu.main]]
 url    = "/#about-us"
-name   = "Điện cơ Thanh Hiền Journey"
+name   = "Thanh Hien Electromechanical Journey"
 weight = 1
 parent = "about-us"
 [[Languages.en.menu.main]]
@@ -129,7 +127,7 @@ weight = 3
 parent = "about-us"
 [[Languages.en.menu.main]]
 url    = "/team"
-name   = "Điện cơ Thanh Hiền Team"
+name   = "Thanh Hien Electromechanical Team"
 weight = 4
 parent = "about-us"
 
@@ -139,68 +137,20 @@ url    = "/#contact"
 name   = "Contact"
 weight = 5
 
-## Portuguese
-[Languages.pt]
-title = "Điện cơ Thanh Hiền"
-weight = 0
+[params]
+  dateform        = "January 2, 2006"
+  dateformShort   = "January 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
+  # enableLanguageSwitchingButton = true
 
-[Languages.pt.permalinks]
-product = "/product/:slug"
+  # Metadata mostly used in document's head
+  # description = ""
+  # themeColor = "#494f5c"
 
-[[Languages.pt.menu.main]]
-url    = "#"
-name   = "Blog"
-weight = 1
-identifier = "blog"
-[[Languages.pt.menu.main]]
-url    = "/blog"
-name   = "Blog Điện cơ Thanh Hiền"
-weight = 1
-parent = "blog"
-[[Languages.pt.menu.main]]
-url    = "/dala-kitchen"
-name   = "Cozinha Điện cơ Thanh Hiền"
-weight = 2
-parent = "blog"
+  # Prefix of link to the git commit detail page. GitInfo must be enabled.
 
-[[Languages.pt.menu.main]]
-url    = "/product"
-name   = "Produtos"
-weight = 2
+  # Toggling this option needs to rebuild SCSS, requires Hugo extended version
+  justifyContent = true  # Set "text-align: justify" to `.content`.
 
-[[Languages.pt.menu.main]]
-url    = "/qa"
-name   = "FAQ"
-weight = 3
-
-[[Languages.pt.menu.main]]
-url    = "#"
-name   = "Sobre nós"
-weight = 4
-identifier = "about-us"
-[[Languages.pt.menu.main]]
-url    = "/#about-us"
-name   = "Jornada Điện cơ Thanh Hiền"
-weight = 1
-parent = "about-us"
-[[Languages.pt.menu.main]]
-url    = "/company-profile"
-name   = "Perfil"
-weight = 2
-parent = "about-us"
-[[Languages.pt.menu.main]]
-url    = "/company-docs"
-name   = "Certificados"
-weight = 3
-parent = "about-us"
-[[Languages.pt.menu.main]]
-url    = "/team"
-name   = "Time Điện cơ Thanh Hiền"
-weight = 4
-parent = "about-us"
-
-[[Languages.pt.menu.main]]
-url    = "/#contact"
-name   = "Contato"
-weight = 5
-
+  relatedPosts = true  # Add a related content section to all single posts page

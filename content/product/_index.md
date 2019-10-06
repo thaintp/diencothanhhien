@@ -5,8 +5,4 @@ tags = []
 aliases = ["/san-pham/"]
 +++
 
-Các loại rau củ Điện cơ Thanh Hiền được trồng và kiểm soát chặt chẽ từ nguyên liệu đầu vào, sau đó được sấy khô và nghiền mịn để đảm bảo
-giữ lại hơn 90% dinh dưỡng so với rau củ tươi
-
-15 - 20 gram bột rau củ Điện cơ Thanh Hiền chứa lượng chất xơ tương đương 80 - 100 gram rau củ tươi. Nhờ đó giúp bổ sung lượng chất xơ cần thiết chỉ trong 3 phút bằng cách khuấy vào sữa / nước hay thông qua các loại thức ăn khác. [Xem thêm cách sử dụng](/qa/#cách-sử-dụng-bột-rau-củ-dalafarm-như-thế-nào)
-
+Các sản phẩm của Điện cơ Thanh Hiền được nhập và kiểm soát chặt chẽ từ các nhà sản xuất uy tín, sau đó phân loại và đánh giá chất lượng từng sản phẩm, đảm bảo cung cấp cho khách hàng những sản phẩm phù hợp nhất, bền nhất và giá hợp lý nhất.
