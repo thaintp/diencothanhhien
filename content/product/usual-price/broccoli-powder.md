@@ -14,7 +14,6 @@ thumbnailX = 68.38
 title = "Bột Súp Lơ Xanh (50g)"
 url = "/san-pham/bot-sup-lo-xanh-50g"
 weight = 3
-key = "broccoli"
 +++
 
 # Bột Súp Lơ Điện cơ Thanh Hiền (dùng liền)
